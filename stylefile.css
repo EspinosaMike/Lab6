@@ -1,0 +1,30 @@
+body {
+    background-image: url("mike.jpg");
+}
+h1 {
+	color:#FAFAD2;
+	text-align: center;
+	font-size: 65px;
+	font-weight: bold;
+	}
+h2 {
+  color: firebrick;
+  text-align: center;
+  font-size: 40px;
+}
+h3 {
+	color: #AFEEEE;
+	text-align: center;
+	font-size: 30px;
+	}
+p  {
+  color: #FFFACD;
+  text-align: center;
+  font-size: 25px;
+}
+h4 {
+	color: crimson;
+	text-align: center;
+	font-size: 45px;
+	}
+	
